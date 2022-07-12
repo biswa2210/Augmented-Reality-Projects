@@ -39,7 +39,7 @@
 ## 4. Romi’s HBD Greeting Card (Marker Based AR)
 ### :point_right: <a href="">Click here to get project</a>
 ### :point_right: <a href="https://www.youtube.com/watch?v=OkjPuTc7F28&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=3">Click here to watch demo video</a>
-###:point_right: Description-->
+### :point_right: Description-->
 
 ## 5. My Fav List Card (Marker Based AR) 
 ### :point_right: <a href="">Click here to get project</a>
