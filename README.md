@@ -20,7 +20,10 @@
 
 <div align="justified">
     
-    
+Augmented reality is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory. I have created 10 augmented reality projects. 4 of them are mobile apps. These apps are used to place box, spiders, car, helicopters on a plane. When we tap on phone this works. First ball dropping and barberian king are my first projects in augmented reality. The barberian king runs on a marked plane like a mouse pad or table etc. For AR book I had drawn some pictures in dotted lines like sun, home, car, airoplane, clouds etc. When we place the camera before the drawing we can see the things. I had made a greeting card for my friend's bday. When we place the camera before the greeting card a birthday music starts and my friend's pictures are visible. As soon as we close the greeting card the music and pictures stops. My fav list card is a collection of my favourite music, movie, web series etc. Here the music is played and the movie, web series scenes are played. For more details checkout my yu tube playlist on Augmented Reality Projects.
+
+### :point_right: <a href="">Click here to go to my Augmented Reality Playlist</a>
+
 ## 1. Unity First ball Dropping
 ### :point_right: <a href="https://drive.google.com/file/d/1jW0mBl5U3HxKHYOk21np8VTleaVthiqK/view">Click here to get project</a>
 ### :point_right: <a href="">Click here to watch demo video</a>
@@ -89,14 +92,10 @@
 
 <div align="justified">
 
-</div>
-
-## Importance :point_down:
-
-<div align="justified">
+I have created these projects to practice augmented reality concepts and to know more about the subject. 
 
 </div>
-    
+
 ## Screenshots :point_down: 
 
 <div align="center">
