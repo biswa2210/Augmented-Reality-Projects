@@ -1,4 +1,4 @@
-# Augmented-Reality-Projects :star_struck: :open_mouth: :running: :spider: :car: :helicopter: :box:
+# Augmented-Reality-Projects :star_struck: :open_mouth: :running: :spider: :car: :helicopter: 
 
 [![Generic badge](https://img.shields.io/badge/augmented-reality-blueviolet)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Markerless-AR-yellow)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Marker--based-AR-critical)](https://shields.io/)
 <br>
