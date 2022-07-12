@@ -48,32 +48,32 @@
 
 ## 6. AR Virtual Buttons (Marker Based AR) 
 ### :point_right: <a href="">Click here to get project</a>
-###:point_right: <a href="https://www.youtube.com/watch?v=Rt7nltykzWA&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=5">Click here to watch demo video</a>
-###:point_right: Description-->
+### :point_right: <a href="https://www.youtube.com/watch?v=Rt7nltykzWA&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=5">Click here to watch demo video</a>
+### :point_right: Description-->
 
 ## 7. Box Placing (MarkerLess AR) 
-###:point_right: <a href="">Click here to get project</a>
-###:point_right: <a href="https://www.youtube.com/watch?v=fqHgjUFmVtQ&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=8">Click here to watch demo video</a>
-###:point_right: Description-->
-###:point_right: <a href="">Click here to download app</a>
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=fqHgjUFmVtQ&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=8">Click here to watch demo video</a>
+### :point_right: Description-->
+### :point_right: <a href="">Click here to download app</a>
 
 ## 8. Multiple Spider Placing (MarkerLess AR) 
-###:point_right: <a href="">Click here to get project</a>
-###:point_right: <a href="https://www.youtube.com/watch?v=NZ9W4qDoX2Q&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=6">Click here to watch demo video</a>
-###:point_right: Description-->
-###:point_right: <a href="">Click here to download app</a>
+### :point_right: <a href="">Click here to get project</a>
+### :point_right: <a href="https://www.youtube.com/watch?v=NZ9W4qDoX2Q&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=6">Click here to watch demo video</a>
+### :point_right: Description-->
+### :point_right: <a href="">Click here to download app</a>
 
 ## 9. Car Placing (MarkerLess AR) 
 ### :point_right: <a href="">Click here to get project</a>
 ### :point_right: <a href="https://www.youtube.com/watch?v=j_5T-xIePNE&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=7">Click here to watch demo video</a>
 ### :point_right: Description-->
-###:point_right: <a href="">Click here to download app</a>
+### :point_right: <a href="">Click here to download app</a>
 
 ## 10.	Multiple Airplane Heli Placing (MarkerLess AR)  
 ### :point_right: <a href="">Click here to get project</a>
 ### :point_right: <a href="https://www.youtube.com/watch?v=9iHeGCS5efI&list=PL0lbDlMJ1h4hOjuRuo6K1uMTwxRTrwBZ9&index=9">Click here to watch demo video</a>
 ### :point_right: Description-->
-###:point_right: <a href="">Click here to download app</a>
+### :point_right: <a href="">Click here to download app</a>
 
 </div>
 
